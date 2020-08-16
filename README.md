@@ -1,5 +1,5 @@
-This is a Peer-graded Assignment of  Getting and Cleaning Data Course 
 
+This is a Peer-graded Assignment of  Getting and Cleaning Data Course 
 The The purpose of this project is develop abilies to collect, work with, and clean a data set.
 
 ### Dataset
@@ -11,10 +11,10 @@ Data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20
 
 ### Files
 
--CodeBook.md : a code book that describes the variables, the data, and clean up process
+- CodeBook.md : a code book that describes the variables, the data, and clean up process
 of the data
 
--run_analysis.R:  R code for run the five steps required for this assignment  :
+- run_analysis.R:  R code for run the five steps required for this assignment  :
 
 Merges the training and the test sets to create one data set.
 
@@ -25,5 +25,5 @@ Merges the training and the test sets to create one data set.
 5. From the data set in step 4, creates a second, 
 independent tidy data set with the average of each variablefor each activity and each subject.
 
--TidyDataSet.txt: It is the product of do the five steps. It is a table with 180 rowns and
+- TidyDataSet.txt: It is the product of do the five steps. It is a table with 180 rowns and
 89 columns.
