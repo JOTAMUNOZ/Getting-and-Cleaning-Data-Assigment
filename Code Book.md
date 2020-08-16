@@ -3,7 +3,7 @@ the R script was developed in Windows if you use Mac you need change the way to
 write the direction of the folders ("/" by "\")
 
 
-### 1.Download the dataset 
+### 1. Download the dataset 
 
 Human Activity Recognition Using Smartphones Data Set (more information in README)
 
@@ -11,7 +11,7 @@ Dataset downloaded and extracted in a folder in the proyect directory
 called "UCI HAR Dataset"
 
 
-### 2.Join files to create Trinning and test data set 
+### 2. Join files to create Trinning and test data set 
 1. features <- read.table("UCI HAR Dataset/features.txt", col.names = c("n","variables"))
 
 featuares have 561 variable names asociate to different measures. Info in features_info.txt
@@ -46,7 +46,7 @@ it is posible do the merge because both previus dataset have the same variables
 th emerge data set have 10299 (7352+2947) and 563 variables
 
 
-### 3.Extracts only the measurements on the mean and standard deviation for each measurement.
+### 3. Extracts only the measurements on the mean and standard deviation for each measurement.
 1. Use dplyr 
 library(dplyr)
 2. subset with variables that contains the  string "mean" "std"
