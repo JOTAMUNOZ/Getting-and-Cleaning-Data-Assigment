@@ -2,12 +2,13 @@ This is a Peer-graded Assignment of  Getting and Cleaning Data Course
 
 The The purpose of this project is develop abilies to collect, work with, and clean a data set.
 
-###Dataset
+### Dataset
 
 Human Activity Recognition Using Smartphones Data Set
-Info[url:"http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones"]
+Info http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Data[url:"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip""]
+Data https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 ### Files
 
 -CodeBook.md : a code book that describes the variables, the data, and clean up process
